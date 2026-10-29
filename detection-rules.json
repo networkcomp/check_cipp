@@ -64,7 +64,8 @@
       "^https:\\/\\/(?:[^/]*\\.)?service-noreply\\.info(/.*)?$",
       "^https:\\/\\/(?:[^/]*\\.)?bpidtr\\.com(/.*)?$",
       "^https:\\/\\/(?:[^/]*\\.)?cloudsurveillance\\.net(/.*)?$",
-      "^https:\\/\\/(?:[^/]*\\.)?bullphishid\\.com(/.*)?$"
+      "^https:\\/\\/(?:[^/]*\\.)?bullphishid\\.com(/.*)?$",
+      "^https:\\/\\/(?:[^/]*\\.)?strategyoverview\\.com(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
